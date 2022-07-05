@@ -28,7 +28,7 @@ Finally I need to add comments where necessary ensuring that the code is underst
 
 ## Table of Contents
 
-1. [Description of Task](##description-of-Task)
+1. [Description of Task](#description-of-Task)
 2. [Usage](#usage)
 3. [Technology](#technology)
 4. [Features](#features)
