@@ -31,12 +31,17 @@ Finally I need to add comments where necessary ensuring that the code is underst
 
 1. [Description of Task](#description-of-Task)
 2. [Usage](#usage)
-3. [Technology](#technology)
-4. [Features](#features)
-5. [Badges](#badges)
-6. [Credits](#credits)
-7. [License](#license)
-8. [Feedback](#feedback)
+3. [Screenshot](#screenshot-of-application)
+4. [Technology](#technology)
+5. [Features](#features)
+6. [Badges](#badges)
+7. [Credits](#credits)
+8. [License](#license)
+9. [Feedback](#feedback)
+
+## Screenshot of Application
+
+![screenshot of horiseon site](assets/images/screenshot-of-site.jpg)
 
 ## Usage
 
