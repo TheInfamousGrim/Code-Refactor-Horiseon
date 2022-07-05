@@ -40,7 +40,7 @@ Finally I need to add comments where necessary ensuring that the code is underst
 
 ## Usage
 
-If you would like to view this project please follow [this link]().
+If you would like to view this project please follow [this link](https://theinfamousgrim.github.io/Code-Refactor-Horiseon/).
 
 ## Technology
 
