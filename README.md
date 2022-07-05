@@ -35,6 +35,7 @@ Finally I need to add comments where necessary ensuring that the code is underst
 5. [Badges](#badges)
 6. [Credits](#credits)
 7. [License](#license)
+8. [Feedback](#feedback)
 
 ## Usage
 
