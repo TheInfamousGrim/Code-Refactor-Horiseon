@@ -25,6 +25,7 @@ Finally I need to add comments where necessary ensuring that the code is underst
 - README files should be well structured and have all relevant links in working order
 - The correct licensing should be used for your code where possible so that others no what rights they have if they wish to edit your code
 - badges/shields help to show that you know what your doing with regards to development. They're not necessary but can be important
+- I learned how to get a site live with GitHub pages
 
 ## Table of Contents
 
