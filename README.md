@@ -31,7 +31,7 @@ Finally I need to add comments where necessary ensuring that the code is underst
 
 1. [Description of Task](#description-of-Task)
 2. [Usage](#usage)
-3. [Screenshot](#screenshot-of-application)
+3. [Screenshot of Application](#screenshot-of-application)
 4. [Technology](#technology)
 5. [Features](#features)
 6. [Badges](#badges)
