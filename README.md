@@ -13,26 +13,41 @@ _SO THAT our own site is optimized for search engines_
 In detail I have to ensure all the links are working correctly, that the CSS is consolidated by selectors and properties so that they follow the semantic structure of the HTML elements on the index.html document.
 Finally I need to add comments where necessary ensuring that the code is understandable to others who would need to edit and update it as necessary.
 
-What did I learn? (to be completed after the task has been completed)
+### What did I learn?
+
+- The alt attributes aren't only important for screen readers but they also help to optimise
+- If you want to add alt text to a background image that is placed using CSS you need to use and aria label attribute on the div or on a child span if that's not possible
+- It is important to group selectors when styling elements in the exact same way as it makes your CSS more concise.
+- Your CSS should always make semantic sense when compared to your HTML files as that will make your code more readable and editable
+- Commenting is super important for code legibility
+- README files should be well structured and have all relevant links in working order
+- The correct licensing should be used for your code where possible so that others no what rights they have if they wish to edit your code
+- badges/shields help to show that you know what your doing with regards to development. They're not necessary but can be important
 
 ## Table of Contents
 
 1. [Description of Task](##description-of-Task)
 2. [Usage](#usage)
-3. [Features](#features)
-4. [Badges](#badges)
-5. [Credits](#credits)
-6. [License](#license)
+3. [Technology](#technology)
+4. [Features](#features)
+5. [Badges](#badges)
+6. [Credits](#credits)
+7. [License](#license)
 
 ## Usage
 
 If you would like to view this project please follow [this link]().
 
+## Technology
+
+The technology used for the development of this site was github pages, HTML and CSS.
+
 ## Features
 
 - All the images have alt attributes that describe in detail what the images represent.
 - All the links work correctly.
-- The CSS file has been refactored to represent the semantic structure of the HTML elements
+- The CSS file have been rearranged to follow the semantic structure of the HTML elements.
+- The font for the links in the header have been resized so that they're mobile responsive
 
 ## Badges
 
