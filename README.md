@@ -7,7 +7,9 @@ The task is to **refactor** and edit the code so that it is more **semantic**, m
 ### User Story
 
 _AS A marketing agency_
+
 _I WANT a codebase that follows accessibility standards_
+
 _SO THAT our own site is optimized for search engines_
 
 In detail I have to ensure all the links are working correctly, that the CSS is consolidated by selectors and properties so that they follow the semantic structure of the HTML elements on the index.html document.
