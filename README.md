@@ -17,12 +17,12 @@ What did I learn? (to be completed after the task has been completed)
 
 ## Table of Contents
 
-1. [Description of Task](##Description-of-Task)
-2. [Usage](##Usage)
-3. [Features](##Features)
-4. [Badges](##Badges)
-5. [Credits](##Credits)
-6. [License](##License)
+1. [Description of Task](##description-of-Task)
+2. [Usage](##usage)
+3. [Features](##features)
+4. [Badges](##badges)
+5. [Credits](##credits)
+6. [License](##license)
 
 ## Usage
 
